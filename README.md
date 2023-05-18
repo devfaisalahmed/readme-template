@@ -17,7 +17,8 @@
 <i> this is italic</i>  
 _this is italic_
 
-**this is bold**  
+**this is bold**   
+   
 ~~delete~~  
 `<h1>Bangladesh</h1>`
 
